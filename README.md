@@ -1,0 +1,2 @@
+# qqvga
+BlazTech considered harmful
